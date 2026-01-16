@@ -1,0 +1,21 @@
+# Java
+*.class
+*.jar
+*.war
+
+# Maven
+/target/
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
+
+# JDK (TRÈS IMPORTANT)
+jdk/
+*jdk*
+oracleJdk*
